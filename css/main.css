@@ -50,10 +50,6 @@ img {
   height: auto;
 }
 
-.section-delete {
-  padding-top: 0;
-}
-
 .card-set {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -840,6 +836,10 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--main-title-color);
+}
+
+.section-delete {
+  padding-top: 0;
 }
 
 .our-comand {
