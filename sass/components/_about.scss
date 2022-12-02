@@ -1,4 +1,7 @@
-.about-container {
+.about {
+        @extend %section;
+}
+.about {
         display: flex;
 }
 .list-about {

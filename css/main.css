@@ -19,6 +19,11 @@
   margin: -1px;
 }
 
+.comand, .about {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: var(--main-title-color);
@@ -735,7 +740,7 @@ img {
   color: var(--main-title-color);
 }
 
-.about-container {
+.about {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -861,7 +866,7 @@ img {
   gap: 30px;
 }
 
-.main-comand {
+.comand {
   background-color: #F5F4FA;
 }
 

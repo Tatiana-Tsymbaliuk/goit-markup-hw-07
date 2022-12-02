@@ -1,3 +1,6 @@
+.comand {
+ @extend %section;
+}
 .our-comand {
         margin-bottom: 50px;
         text-align: center;
@@ -13,7 +16,7 @@
         gap: 30px;
 }
 
-.main-comand {
+.comand {
         background-color: #F5F4FA;
 }
 
